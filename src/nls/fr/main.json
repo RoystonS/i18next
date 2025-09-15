@@ -2,5 +2,6 @@
   "lang": "fr",
   "selectColor": "Veuillez sélectionner une couleur",
   "file_one": "{{count}} fichier",
+  "file_many": "{{count}} fichiers",
   "file_other": "{{count}} fichiers"
 }
