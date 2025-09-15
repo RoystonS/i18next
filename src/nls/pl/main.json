@@ -1,0 +1,8 @@
+{
+  "lang": "pl",
+  "selectColor": "Proszę wybrać kolor",
+  "file_one": "{{count}} plik",
+  "file_few": "{{count}} pliki",
+  "file_many": "{{count}} plików",
+  "file_other": "{{count}} plików"
+}
