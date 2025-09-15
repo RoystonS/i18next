@@ -1,4 +1,6 @@
 {
   "lang": "en-US",
-  "selectColor": "Please select a color"
+  "selectColor": "Please select a color",
+  "file_one": "{{count}} file",
+  "file_other": "{{count}} files"
 }
