@@ -1,6 +1,5 @@
 {
   "lang": "en-US",
   "selectColor": "Please select a color",
-  "file_one": "{{count}} file",
-  "file_other": "{{count}} files"
+  "file": "{count, plural, one {# file} other {# files}}"
 }
